@@ -1,0 +1,7 @@
+C:\Users\20162014040009\source\repos\CardApp\CardServer\bin\CardServer.dll.config
+C:\Users\20162014040009\source\repos\CardApp\CardServer\bin\CardServer.dll
+C:\Users\20162014040009\source\repos\CardApp\CardServer\bin\CardServer.pdb
+C:\Users\20162014040009\source\repos\CardApp\CardServer\obj\Debug\CardServer.csprojResolveAssemblyReference.cache
+C:\Users\20162014040009\source\repos\CardApp\CardServer\obj\Debug\CardServer.csproj.CoreCompileInputs.cache
+C:\Users\20162014040009\source\repos\CardApp\CardServer\obj\Debug\CardServer.dll
+C:\Users\20162014040009\source\repos\CardApp\CardServer\obj\Debug\CardServer.pdb
